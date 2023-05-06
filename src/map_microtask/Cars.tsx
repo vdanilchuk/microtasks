@@ -1,5 +1,6 @@
-import React from 'react';
 
+import React from 'react';
+/*
 type CarsType = {
     topCars: TopCars[]
 }
@@ -29,3 +30,4 @@ export const Cars = (props: CarsType) => {
         </table>
     )
 }
+*/

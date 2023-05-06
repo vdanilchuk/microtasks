@@ -1,5 +1,5 @@
 import React from 'react';
-
+/*
 type NewComponentType = {
     students: StudentType[]
 }
@@ -23,3 +23,4 @@ export const NewComponent = (props: NewComponentType) => {
         </ul>
     )
 }
+*/
